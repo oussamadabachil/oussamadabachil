@@ -6,10 +6,9 @@
 
 *Building digital products from idea to launch — web, mobile, extensions & AI.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-oussamadabachil.com-F9735B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://oussamadabachil.com)
-[![Available](https://img.shields.io/badge/Status-Available%20for%20freelance%20%26%20remote-7DD3A8?style=for-the-badge)](mailto:hello@oussamadabachil.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-adhdbuilder.com-F9735B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://adhdbuilder.com)
+[![Available](https://img.shields.io/badge/Status-Available%20for%20freelance%20%26%20remote-7DD3A8?style=for-the-badge)](mailto:oussamadabachilpro@gmail.com)
 [![Location](https://img.shields.io/badge/Location-France-7EC8E3?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
-
 </div>
 
 ---

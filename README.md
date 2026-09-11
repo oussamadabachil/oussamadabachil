@@ -73,11 +73,10 @@ More on my [portfolio](https://oussamadabachil.com).
 
 ## Connect
 
-[![Email](https://img.shields.io/badge/Email-hello@oussamadabachil.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@oussamadabachil.com)
+[![Email](https://img.shields.io/badge/Email-oussamadabachilpro%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oussamadabachilpro@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussama-dabachil-7149541b1/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oussamadabachil)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/oussamadabachil)
-
 ---
 
 <div align="center">
